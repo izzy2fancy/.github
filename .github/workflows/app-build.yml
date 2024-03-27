@@ -18,6 +18,7 @@ on:
       ant_version:
         required: false
         type: string
+        default: '1.10.8'
       java_tool_options:
         required: false
         type: string
